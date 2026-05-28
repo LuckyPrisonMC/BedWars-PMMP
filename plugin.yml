@@ -1,0 +1,6 @@
+name: BedWars
+main: com.bedwars.Main
+version: 1.0.0
+author: asepdeveloper
+depend: []
+api: [5.0.0]
